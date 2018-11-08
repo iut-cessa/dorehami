@@ -8,4 +8,5 @@
 - Date: 2018 Nov 5 (1397 Abab 14)
 
 <img src="./ctf.jpg" width="360">
+
 [View the poster in higher resolution](ctf-hr.jpg)
