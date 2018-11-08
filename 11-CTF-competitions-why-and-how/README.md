@@ -8,4 +8,6 @@
 - Date: 2018 Nov 5 (1397 Abab 14)
 - [Presentation Materials](11-CTF-competitions-why-and-how)
 
-[Dorehami - CTF competitions, why? and how?](ctf.jpg)
+![Dorehami - CTF competitions, why? and how?](ctf.jpg)
+[View the poster in higher resolution](ctf-hr.jpg)
+
