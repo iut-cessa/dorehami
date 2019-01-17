@@ -82,6 +82,12 @@ The goals of Dorehami are:
 - Date: 2018 Nov 5 (1397 Abab 14)
 - [Presentation Materials](11-CTF-competitions-why-and-how)
 
+### [Week 12 - Big Data](12-bigdata-amin-nikbakht)
+- Subject: **Big Data**
+- Speaker: [Amin Nikbakht](https://www.linkedin.com/in/aminik): Co-Founder & CEO @ [Anacav.com](anacav.com)
+- Date: 2018 Dec 4 (1397 Azar 13)
+- [Presentation Materials](12-bigdata-amin-nikbakht)
+
 ## Contribution Guidelines
 
 Dorehami, as pointed before, is a student organized event. **Any** interested students in **any** kind of fields are pleased to contribute to Dorehami. Also teachers and alumni of IUT and other universities are welcome to Dorehami to be a speaker or audience.
