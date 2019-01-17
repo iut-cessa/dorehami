@@ -74,12 +74,6 @@ The goals of Dorehami are:
 - Date: 2018 Apr 11 (1397 Farvardin 22)
 - [Presentation Materials](10-game-ai-research-a-gentle-introduction)
 
-### [Week 12 - Big Data](12-bigdata-amin-nikbakht)
-- Subject: **Big Data**
-- Speaker: [Amin Nikbakht](https://www.linkedin.com/in/aminik): Co-Founder & CEO @ [Anacav.com](anacav.com)
-- Date: 2018 Dec 4 (1397 Azar 13)
-- [Presentation Materials](12-bigdata-amin-nikbakht)
-
 ### [Week 11 - CTF competitions, why? and how?](11-CTF-competitions-why-and-how)
 - Subject: **CTF competitions, why? and how?**
 - Speaker: 
@@ -87,6 +81,12 @@ The goals of Dorehami are:
   - [Sajad Mirzababaei](https://www.linkedin.com/in/sajjad-mirzababaie-904aa3139/): Software Engineering Student @ IUT, 2015 - Present and Core member of APAchee club in APA security center
 - Date: 2018 Nov 5 (1397 Abab 14)
 - [Presentation Materials](11-CTF-competitions-why-and-how)
+
+### [Week 12 - Big Data](12-bigdata-amin-nikbakht)
+- Subject: **Big Data**
+- Speaker: [Amin Nikbakht](https://www.linkedin.com/in/aminik): Co-Founder & CEO @ [Anacav.com](anacav.com)
+- Date: 2018 Dec 4 (1397 Azar 13)
+- [Presentation Materials](12-bigdata-amin-nikbakht)
 
 ## Contribution Guidelines
 
