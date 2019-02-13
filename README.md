@@ -88,6 +88,12 @@ The goals of Dorehami are:
 - Date: 2018 Dec 4 (1397 Azar 13)
 - [Presentation Materials](12-bigdata-amin-nikbakht)
 
+### [Week 13 - Probabilistic Complexity](13-Probabilistic-Complexity-Soroush-Zargar)
+- Subject: **Probabilistic Complexity**
+- Speaker: [Soroush Zargar](https://www.linkedin.com/in/soroushzargar/): CS Master student at Tehran University
+- Date: 2019 Feb 4 (1397 Bahman 15)
+- [Presentation Materials](13-Probabilistic-Complexity-Soroush-Zargar)
+
 ## Contribution Guidelines
 
 Dorehami, as pointed before, is a student organized event. **Any** interested students in **any** kind of fields are pleased to contribute to Dorehami. Also teachers and alumni of IUT and other universities are welcome to Dorehami to be a speaker or audience.
