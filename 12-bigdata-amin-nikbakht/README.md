@@ -1,7 +1,5 @@
-### [Week 11 - CTF competitions, why? and how?](11-CTF-competitions-why-and-how)
-- Subject: **CTF competitions, why? and how?**
-- Speaker: 
-  - [Seyed Mostafa Hosseini](https://www.linkedin.com/in/aseyed-mostafa/): Software Engineering Student @ IUT, 2014 - Present and Member of the APA security center for Technical Assessment 
-  - [Sajad Mirzababaei](https://www.linkedin.com/in/sajjad-mirzababaie-904aa3139/): Software Engineering Student @ IUT, 2015 - Present and Core member of APAchee club in APA security center
-- Date: 2018 Nov 5 (1397 Abab 14)
-- [Presentation Materials](11-CTF-competitions-why-and-how)
+### [Week 12 - Big Data](12-bigdata-amin-nikbakht)
+- Subject: **Big Data**
+- Speaker: [Amin Nikbakht](https://www.linkedin.com/in/aminik): Co-Founder & CEO @ [Anacav.com](anacav.com)
+- Date: 2018 Dec 4 (1397 Azar 13)
+<img src="./Bigdata-Aminnikbakht.jpeg" width="540">
