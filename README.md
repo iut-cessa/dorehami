@@ -76,8 +76,8 @@ The goals of Dorehami are:
 
 ### [Week 11 - CTF competitions, why? and how?](11-CTF-competitions-why-and-how)
 - Subject: **CTF competitions, why? and how?**
-- Speaker: 
-  - [Seyed Mostafa Hosseini](https://www.linkedin.com/in/aseyed-mostafa/): Software Engineering Student @ IUT, 2014 - Present and Member of the APA security center for Technical Assessment 
+- Speaker:
+  - [Seyed Mostafa Hosseini](https://www.linkedin.com/in/aseyed-mostafa/): Software Engineering Student @ IUT, 2014 - Present and Member of the APA security center for Technical Assessment
   - [Sajad Mirzababaei](https://www.linkedin.com/in/sajjad-mirzababaie-904aa3139/): Software Engineering Student @ IUT, 2015 - Present and Core member of APAchee club in APA security center
 - Date: 2018 Nov 5 (1397 Abab 14)
 - [Presentation Materials](11-CTF-competitions-why-and-how)
@@ -93,6 +93,20 @@ The goals of Dorehami are:
 - Speaker: [Soroush Zargar](https://www.linkedin.com/in/soroushzargar/): CS Master student at Tehran University
 - Date: 2019 Feb 4 (1397 Bahman 15)
 - [Presentation Materials](13-Probabilistic-Complexity-Soroush-Zargar)
+
+### [Week 14 - Artificial Intelligence](14-AI-IUTAICHAPTER)
+
+- Subject: **AI main fields and applications**
+- Speaker(s):
+  - [IUT AI Chapter](https://t.me/IUTAICHAPTER)
+
+    - [Mahya Jamshidian]()
+    - [Maryam Meghdadi](https://www.linkedin.com/in/maryam-meghdadi/)
+    - [Mohammad Amin Samadi](https://www.linkedin.com/in/aminsamadi/)
+    - [Mohammad Sadegh Akhondzadeh](https://www.linkedin.com/in/msadegh/)
+- Date: 2019 Feb 17 (1397 Bahman 28)
+- [Presentation Materials](14-AI-IUTAICHAPTER)
+
 
 ## Contribution Guidelines
 
