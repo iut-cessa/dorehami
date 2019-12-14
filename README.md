@@ -4,10 +4,10 @@
 Dorehami is a student organized event which is held weekly at [IUT ECE department](http://ece.iut.ac.ir/en).
 
 The goals of Dorehami are:
-- Building a powerful community with a vast area of knowledge.
-- Learning new ideas about computers.
-- Training the art of speaking with providing a chance to speak in front of students and also teachers.
-- Providing the atmosphere to create scientific groups or make them bigger and more active.
+- Building a powerful scientific community with a vast area of knowledge.
+- Getting familiar with new and state-of-the-art ideas in computer science.
+- Giving the opportunity to students and inexperienced speaker to practice their representation skills in front of a considerable number of audience.
+- Providing the atmosphere to create scientific groups for bigger purposes.
 
 
 ## Events
